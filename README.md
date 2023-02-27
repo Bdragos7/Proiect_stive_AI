@@ -1,5 +1,7 @@
 # Proiect_stive_AI
 
+Enunțul proiectului:
+---
 Mutarea blocurilor se face cu urmatoarele restrictii:
 
 Putem muta un bloc b1 peste alt bloc b2 doar dacă numerele din cele două blocuri sunt prime între ele (de exemplu nu pot muta 15 peste 6 (fiindcă cel mai mare divizor comun al lor este 3), dar îl pot muta peste 14 (deoarece cmmdc-ul numerelor 15 și 14 este 1 deci sunt prime între ele)
@@ -29,3 +31,8 @@ Exemplu de stare initială:
 Exemplu stare scop/finală:
 
 ![Screenshot 2023-02-27 134902](https://user-images.githubusercontent.com/82332641/221557594-edbb243e-2660-494b-8a91-ad59b07b44d3.png)
+
+Observații:
+---
+- Calcularea stării scop este implementata în 6 moduri diferite de căutare:
+
