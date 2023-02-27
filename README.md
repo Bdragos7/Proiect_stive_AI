@@ -34,5 +34,7 @@ Exemplu stare scop/finală:
 
 Observații:
 ---
-- Calcularea stării scop este implementata în 6 moduri diferite de căutare:
+- Calcularea stării scop este implementată în 6 moduri diferite de căutare:
+ breadth first, A*, depth first, A* optimizat, IDA*, uniform cost
+
 
